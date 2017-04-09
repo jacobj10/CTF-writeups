@@ -1,10 +1,10 @@
-#snap-fail
-###200 - Reversing
+# snap-fail
+### 200 - Reversing
 
-###Files
+### Files
 snap-fail.tar.gz
 
-###Writeup
+### Writeup
 ```bash
 0:50:02 Downloads tar xvf snap-fail.tar.gz 
 snap-fail/
